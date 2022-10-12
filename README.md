@@ -1,5 +1,5 @@
 # ATM-simulater
 core java projesct
 
-Account No:- 
-Password:-
+Account No:- 987
+Password:- 12345
